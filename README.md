@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, soy Renzo Orduña
 
-<!--
-**renzoxpixely/renzoxpixely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un ingeniero de software al que le apasiona hacer que el código abierto sea más accesible, crear tecnología para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar incluyen:
+🌟Angular (Javascript)
+🌟Django (Python)
+🌟CodeIgniter Laravel (PHP)
+🌟WooComerce (WordPress)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Encuéntrame en la web 🌎: 
+- Mi LinkedIn <a href="https://www.linkedin.com/in/renzo-ordu%C3%B1a-trejo-96765017b/">LinkedIn</a> 💼
+- Mi página web <a href="https://renzoxpixely.github.io/">Página</a> 💼
+- Mi canal de Youtube <a href="https://www.youtube.com/channel/UCWKPcwHcIDt-hEoXA3823YQ">Youtube</a> 💼
+- Mi Blogger  <a href="https://solucionescoder.blogspot.com/">Blogger</a> 💼
+- Mi página de facebook <a href="https://www.facebook.com/SolucionesCoder">Página</a> 💼
